@@ -3,3 +3,25 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #083b4c;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 820px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    background-color: white;
+}
